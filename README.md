@@ -62,7 +62,7 @@ In the `config.yml` file [change the GitHub owner and repo](https://github.com/b
 ```yaml
 backend:
   name: github
-  repo: owner/repo # Path to your Github repository
+  repo: prvtllc/repo # Path to your Github repository
   branch: master # Branch to update (master by default)
   
   ...
